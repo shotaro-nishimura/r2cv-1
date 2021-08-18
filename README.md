@@ -1,6 +1,5 @@
-# r2cv-1 ROS2 Computer Vision お勉強ロボット(その1)
+# r2cv-1: ROS2 Computer Vision お勉強ロボット(その1)
 <html>
-
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=shift_jis">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
